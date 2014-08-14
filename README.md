@@ -1,2 +1,2 @@
-JMEOpenCL
+JMEOpencl
 =========

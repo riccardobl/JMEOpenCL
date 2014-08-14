@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="blender_plugins"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="assets"/>
+	<classpathentry kind="lib" path="/libs/libs/lwjgl/AppleJavaExtensions.jar"/>
+	<classpathentry kind="lib" path="/libs/libs/lwjgl/asm-debug-all.jar"/>
+	<classpathentry kind="lib" path="/libs/libs/lwjgl/jinput.jar"/>
+	<classpathentry kind="lib" path="/libs/libs/lwjgl/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="/libs/libs/lwjgl/lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="/libs/libs/lwjgl/lwjgl.jar"/>
+	<classpathentry kind="lib" path="/libs/libs/lwjgl/lzma.jar"/>
+	<classpathentry kind="lib" path="/libs/libs/jme/jME3-core.jar" sourcepath="/home/Riccardo/projects/forkforge/jmonkeyengine"/>
+	<classpathentry kind="lib" path="/libs/libs/jme/jME3-desktop.jar"/>
+	<classpathentry kind="lib" path="/libs/libs/jme/jME3-lwjgl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
