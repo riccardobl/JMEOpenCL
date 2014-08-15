@@ -132,8 +132,8 @@ public class Particles3d extends SimpleApplication{
         System.out.println("Vertices Buffer Length: "+vertices_buffer.capacity());
         System.out.println("Texture Buffer Length: "+texture_buffer.capacity());
         System.out.println("Normals Buffer Length: "+normals_buffer.capacity());
-        System.out.println("Indices Buffer Length: "+colors_buffer.capacity());
-        System.out.println("Colors Buffer Length: "+index_buffer.capacity());
+        System.out.println("Colors Buffer Length: "+colors_buffer.capacity());
+        System.out.println("Indices Buffer Length: "+index_buffer.capacity());
     
         geom=new Geometry();
         geom.setMesh(mesh);
