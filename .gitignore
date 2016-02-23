@@ -15,3 +15,8 @@ hs_err_pid*
 *.so
 *.dll
 bin/
+
+.project
+.settings
+.classpath
+target/
