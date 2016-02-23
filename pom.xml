@@ -7,7 +7,7 @@
   
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<jme.version>3.1.0-8a9360e3b025609549108c1cb21de9af2e239884</jme.version>
+        <jme.version>3.1.0-SNAPSHOT</jme.version>
 	</properties>
 
 	<build>
