@@ -107,9 +107,7 @@ public class OpenCLSimpleTest extends SimpleApplication{
                                 System.out.println("      Workers created");
 
                                 System.out.println("      Starting kernel");
-                                CL10GL.clEnqueueAcquireGLObjects(cqueue,clmem,null,null);
                                 CL10.clEnqueueNDRangeKernel(cqueue,kernel,1,null,workers,null,null,null);
-                                CL10GL.clEnqueueReleaseGLObjects(cqueue,clmem,null,null);
                                 System.out.println("      Kernel Executed");
 
                                 System.out.println("      Reading results");
